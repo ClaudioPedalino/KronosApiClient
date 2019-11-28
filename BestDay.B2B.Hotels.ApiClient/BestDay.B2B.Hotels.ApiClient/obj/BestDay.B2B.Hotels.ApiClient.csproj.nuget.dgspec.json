@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient.csproj": {}
+  },
+  "projects": {
+    "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient.csproj",
+        "projectName": "BestDay.B2B.Hotels.ApiClient",
+        "projectPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient.csproj",
+        "packagesPath": "C:\\Users\\cpedalino\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\BestDay.B2B.Hotels.ApiClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cpedalino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "http://137.117.230.11:8087/nuget/hoteldo-shared": {},
+          "http://137.117.230.11:8087/nuget/origin-osf/": {},
+          "http://137.117.230.11:8087/nuget/origin-thirdparty/": {},
+          "http://bestday-nuget.azurewebsites.net/nuget": {},
+          "http://nuget-server.shared.gcp.bestday.net/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

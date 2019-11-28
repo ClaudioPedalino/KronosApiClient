@@ -1,0 +1,8 @@
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\bin\Debug\netstandard2.0\Hotels.ApiClient.deps.json
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\bin\Debug\netstandard2.0\Hotels.ApiClient.dll
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\obj\Debug\netstandard2.0\Hotels.ApiClient.csprojAssemblyReference.cache
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\obj\Debug\netstandard2.0\Hotels.ApiClient.AssemblyInfoInputs.cache
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\obj\Debug\netstandard2.0\Hotels.ApiClient.AssemblyInfo.cs
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\bin\Debug\netstandard2.0\Hotels.ApiClient.pdb
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\obj\Debug\netstandard2.0\Hotels.ApiClient.dll
+C:\WorkGitBranch\BestDay.B2B.Hotels.ApiClient\Hotels.ApiClient\obj\Debug\netstandard2.0\Hotels.ApiClient.pdb

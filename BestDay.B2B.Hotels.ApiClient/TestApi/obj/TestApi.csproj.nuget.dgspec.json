@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\TestApi\\TestApi.csproj": {}
+  },
+  "projects": {
+    "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\Hotels.ApiClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\Hotels.ApiClient.csproj",
+        "projectName": "Hotels.ApiClient",
+        "projectPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\Hotels.ApiClient.csproj",
+        "packagesPath": "C:\\Users\\cpedalino\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cpedalino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://137.117.230.11:8087/nuget/hoteldo-shared": {},
+          "http://137.117.230.11:8087/nuget/origin-osf/": {},
+          "http://137.117.230.11:8087/nuget/origin-thirdparty/": {},
+          "http://bestday-nuget.azurewebsites.net/nuget": {},
+          "http://nuget-server.shared.gcp.bestday.net/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "MessagePack": {
+              "target": "Package",
+              "version": "[1.8.80, )"
+            },
+            "MessagePack.AspNetCoreMvcFormatter": {
+              "target": "Package",
+              "version": "[1.8.80, )"
+            },
+            "MessagePackAnalyzer": {
+              "target": "Package",
+              "version": "[1.8.80, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\TestApi\\TestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\TestApi\\TestApi.csproj",
+        "projectName": "TestApi",
+        "projectPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\TestApi\\TestApi.csproj",
+        "packagesPath": "C:\\Users\\cpedalino\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\TestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cpedalino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "http://137.117.230.11:8087/nuget/hoteldo-shared": {},
+          "http://137.117.230.11:8087/nuget/origin-osf/": {},
+          "http://137.117.230.11:8087/nuget/origin-thirdparty/": {},
+          "http://bestday-nuget.azurewebsites.net/nuget": {},
+          "http://nuget-server.shared.gcp.bestday.net/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\Hotels.ApiClient.csproj": {
+                "projectPath": "C:\\WorkGitBranch\\BestDay.B2B.Hotels.ApiClient\\Hotels.ApiClient\\Hotels.ApiClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
